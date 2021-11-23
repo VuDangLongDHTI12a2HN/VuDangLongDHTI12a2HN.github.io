@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-family: tohama;
+	}
+#header {
+	height: 35px;
+	width: 100%;
+	background: #ccc;
+}
+#margin-header{
+	width: 1024px;
+    height: 35px;
+    margin: 0px auto;
+    background: #000;
+}
+#margin-header ul{
+margin: 0px;
+padding: 0px;
+}
+div#margin-header ul li {
+	float: left;
+	list-style: none;
+}
+div#margin-header ul li a{
+	display: block;
+	text-decoration: none;
+}
